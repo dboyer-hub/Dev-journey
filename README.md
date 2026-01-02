@@ -7,3 +7,4 @@ Purpose: learning log + reflections
 - [Day 3](day-03.md)
 - [Day 4](day-04.md)
 - [Day 5](day-05.md)
+- [Day 6](day-06.md)
