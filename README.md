@@ -8,3 +8,4 @@ Purpose: learning log + reflections
 - [Day 4](day-04.md)
 - [Day 5](day-05.md)
 - [Day 6](day-06.md)
+- [Day 7](day-07.md)
